@@ -1,1 +1,1 @@
-Runnind file YandexTask4.ipynb saja
+Running file YandexTask4.ipynb saja
